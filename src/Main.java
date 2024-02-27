@@ -57,5 +57,6 @@ public class Main {
             c = 2 * b;
             System.out.println("2 * " + b +" = " +  c);
         }
+
     }
 }
